@@ -10,7 +10,7 @@ var closureFunc = function(){
 }();
 
 closureFunc[0](); // 3
-closureFunc[1](); // 3 
+closureFunc[1](); // 3
 closureFunc[2](); // 3
 
 // line 7が line 3 を見ているため
